@@ -1,0 +1,61 @@
+body{
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+.topbar{
+width: 100%;
+background-color: rebeccapurple;
+color:white;
+}
+.menu i{
+padding:15px 25px 10px 25px;
+text-decoration: none;
+color: white;
+}
+.menu i:hover{
+	color: #E40B8B;
+}
+.navbar{
+	background-color: #E40B8B;
+}
+.nav-item{
+	padding: 15px;
+	text-decoration: none;
+	color: white;
+
+}
+.nav-item.active{
+	color: black;
+	border-bottom-style: solid;
+	border-radius: 5px;	
+}
+.nav-item:hover{
+	color: rebeccapurple;
+	text-decoration: none;
+}
+	
+.btn{
+	background-color:rebeccapurple;
+}
+.form button:hover{
+	background-color: rebeccapurple ;
+}
+.form button{
+	background-color:#0b0fe4;
+}
+#banner{
+	width: 100%;
+} 
+.heading1{
+padding: 10px;
+background-color: blue;
+color: white;
+
+}
+.row{
+    padding: 15px;
+}
+.footer h3{
+	color: black;
+}
